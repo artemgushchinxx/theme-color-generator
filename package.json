@@ -1,0 +1,29 @@
+{
+  "name": "fast-theme-color-generator",
+  "version": "1.2.0",
+  "description": "Generate color themes and palettes based on a primary color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "color",
+    "theme",
+    "palette",
+    "generator"
+  ],
+  "author": "Kiril Opuhov",
+  "license": "ISC",
+  "dependencies": {
+    "chroma-js": "^2.1.0",
+    "color-convert": "^2.0.1",
+    "color-difference": "^1.2.0",
+    "tinycolor2": "^1.4.2",
+    "randomcolor": "^0.6.2",
+    "color-namer": "^1.3.0"
+  }
+}
